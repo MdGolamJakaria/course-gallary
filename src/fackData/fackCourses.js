@@ -7,101 +7,101 @@ const courses = [{
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 2,
-  "courseName": "Trupe",
+  "courseName": "The Complete JavaScript Course 2020: Build Real Projects!",
   "provider": "Lion Dofty",
   "price": 9758,
-  "image": "http://dummyimage.com/215x116.bmp/5fa2dd/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 3,
-  "courseName": "Fivechat",
+  "courseName": "Modern JavaScript From The Beginning",
   "provider": "Mariquilla Dudliston",
   "price": 11395,
-  "image": "http://dummyimage.com/215x116.jpg/ff4444/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 4,
-  "courseName": "Livepath",
+  "courseName": "JavaScript - The Complete Guide 2020 (Beginner + Advanced)",
   "provider": "Efrem Simonnin",
   "price": 6088,
-  "image": "http://dummyimage.com/215x116.jpg/ff4444/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 5,
-  "courseName": "Rhybox",
+  "courseName": "The Modern JavaScript Bootcamp",
   "provider": "Alberta Torri",
   "price": 12000,
-  "image": "http://dummyimage.com/215x116.bmp/5fa2dd/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 6,
-  "courseName": "Vinder",
+  "courseName": "JavaScript Console Object Ultimate Guide",
   "provider": "Chas Say",
   "price": 8994,
-  "image": "http://dummyimage.com/215x116.jpg/ff4444/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 7,
-  "courseName": "Linkbridge",
+  "courseName": "Modern JavaScript (from Novice to Ninja)",
   "provider": "Floris Padberry",
   "price": 7741,
-  "image": "http://dummyimage.com/215x116.bmp/5fa2dd/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 8,
-  "courseName": "Myworks",
+  "courseName": "20 Web Projects With Vanilla JavaScript",
   "provider": "Norrie Jeal",
   "price": 18773,
-  "image": "http://dummyimage.com/215x116.jpg/dddddd/000000",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 9,
-  "courseName": "Meemm",
+  "courseName": "Make a Spotify Clone from Scratch: JavaScript PHP and MySQL",
   "provider": "Brigid Cabrales",
   "price": 13913,
-  "image": "http://dummyimage.com/215x116.bmp/cc0000/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 10,
-  "courseName": "Topicware",
+  "courseName": "Javascript Essentials for Absolute Beginners",
   "provider": "Grissel MacShirie",
   "price": 16758,
-  "image": "http://dummyimage.com/215x116.png/cc0000/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 11,
-  "courseName": "Topicshots",
+  "courseName": "The Complete Javascript Course for Developers",
   "provider": "Horacio Linde",
   "price": 11150,
-  "image": "http://dummyimage.com/212x206.bmp/dddddd/000000",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 12,
-  "courseName": "Realpoint",
+  "courseName": "Essentials in JavaScript ES6 - A Fun and Clear Introduction",
   "provider": "Shanie Housley",
   "price": 12426,
-  "image": "http://dummyimage.com/215x116.png/ff4444/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 13,
-  "courseName": "Yombu",
+  "courseName": "JavaScript Basics for Beginners",
   "provider": "Shelby Lobbe",
   "price": 10704,
-  "image": "http://dummyimage.com/215x116.png/cc0000/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 14,
-  "courseName": "Geba",
+  "courseName": "The Complete JavaScript Course 2020: Build Real Projects!",
   "provider": "Noella Pattrick",
   "price": 18788,
-  "image": "http://dummyimage.com/215x116.png/ff4444/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }, {
   "id": 15,
-  "courseName": "Voonyx",
+  "courseName": "ES6 Javascript: The Complete Developer's Guide",
   "provider": "Karen McGaughay",
   "price": 17325,
-  "image": "http://dummyimage.com/215x116.jpg/5fa2dd/ffffff",
+  "image": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
   "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante."
 }]
 
